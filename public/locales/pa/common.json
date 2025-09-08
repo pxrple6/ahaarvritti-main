@@ -1,0 +1,147 @@
+{
+  "nav": {
+    "dashboard": "ਡੈਸ਼ਬੋਰਡ",
+    "donations": "ਦਾਨ",
+    "requests": "ਨਿਵੇਦਨ",
+    "analytics": "ਵਿਸ਼ਲੇਸ਼ਣ",
+    "chatbot": "ਚੈਟਬੋਟ",
+    "notifications": "ਸੂਚਨਾਵਾਂ",
+    "profile": "ਪ੍ਰੋਫਾਈਲ",
+    "logout": "ਲਾਗ ਆਉਟ"
+  },
+  "donation": {
+    "createTitle": "ਦਾਨ ਬਣਾਓ",
+    "cuisine": "ਖਾਣੇ ਦੀ ਕਿਸਮ",
+    "selectCuisine": "ਖਾਣਾ ਚੁਣੋ",
+    "cuisineOptions": {
+      "indian": "ਭਾਰਤੀ",
+      "chinese": "ਚੀਨੀ",
+      "italian": "ਇਤਾਲਵੀ",
+      "continental": "ਕਾਂਟੀਨੈਂਟਲ",
+      "mexican": "ਮੈਕਸੀਕਨ",
+      "other": "ਹੋਰ"
+    },
+    "vegType": "ਸ਼ਾਕਾਹਾਰੀ / ਮਾਸਾਹਾਰੀ",
+    "veg": "ਸ਼ਾਕਾਹਾਰੀ",
+    "nonveg": "ਮਾਸਾਹਾਰੀ",
+    "mixed": "ਮਿਸ਼ਰਤ",
+    "unit": "ਇਕਾਈ",
+    "units": {
+      "meals": "ਭੋਜਨ",
+      "kg": "ਕਿਲੋ",
+      "liters": "ਲੀਟਰ",
+      "packs": "ਪੈਕ"
+    },
+    "quantity": "ਮਾਤਰਾ",
+    "expiry": "ਮਿਆਦ (ਘੰਟੇ)",
+    "prepDate": "ਤਿਆਰੀ ਦੀ ਤਾਰੀਖ",
+    "prepTime": "ਤਿਆਰੀ ਦਾ ਸਮਾਂ",
+    "pickupAddress": "ਪਿਕਅੱਪ ਪਤਾ",
+    "foodItemsLabel": "ਭੋਜਨ ਆਈਟਮ(ਾਂ) / ਵੇਰਵਾ",
+    "notes": "ਨੋਟਸ",
+    "deliveryMethod": "ਡਿਲਿਵਰੀ ਤਰੀਕਾ",
+    "deliveryMethodOptions": {
+      "volunteerPickup": "ਵਲੰਟੀਅਰ ਪਿਕਅੱਪ",
+      "selfDelivery": "ਆਪਣੇ ਆਪ ਡਿਲਿਵਰੀ"
+    },
+    "volunteerPickup": "ਵਲੰਟੀਅਰ ਪਿਕਅੱਪ",
+    "selfDelivery": "ਆਪਣੇ ਆਪ ਡਿਲਿਵਰੀ",
+    "destinationType": "ਗੰਤੀਸਥਾਨ ਦੀ ਕਿਸਮ",
+    "destinationTypes": {
+      "foodbank": "ਫੂਡ ਬੈਂਕ",
+      "nursery": "ਨਰਸਰੀ",
+      "poultry": "ਪੋਲਟਰੀ ਕਿਸਾਨ"
+    },
+    "selectDestination": "ਗੰਤੀਸਥਾਨ ਚੁਣੋ",
+    "placeholders": {
+      "foodItems": "ਜਿਵੇਂ, ਦਾਲ ਮਖਨੀ, ਪਨੀਰ ਬਟਰ ਮਸਾਲਾ, ਚਾਵਲ",
+      "pickupAddress": "ਪ੍ਰੋਫਾਈਲ ਪਤਾ ਵਰਤਣ ਲਈ ਖਾਲੀ ਛੱਡੋ"
+    },
+    "hints": {
+      "foodItems": "ਕਿਰਪਾ ਕਰਕੇ ਭੋਜਨ ਆਈਟਮਾਂ ਦਾ ਸੰਖੇਪ ਪਰ ਸਪੱਸ਼ਟ ਵੇਰਵਾ ਦਿਓ।"
+    },
+    "buttons": {
+      "create": "ਦਾਨ ਬਣਾਓ",
+      "creating": "ਬਣਾ ਰਹੇ ਹਾਂ...",
+      "grab": "ਲਵੋ",
+      "grabbing": "ਲਿਆ ਜਾ ਰਿਹਾ ਹੈ...",
+      "request": "ਬੇਨਤੀ ਕਰੋ",
+      "requesting": "ਬੇਨਤੀ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ...",
+      "submit": "ਜਮ੍ਹਾਂ ਕਰੋ",
+      "submitting": "ਜਮ੍ਹਾਂ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ..."
+    },
+    "availableToCollect": "ਸੰਗ੍ਰਹਿ ਲਈ ਉਪਲਬਧ ਦਾਨ",
+    "noAvailableToCollect": "ਇਸ ਸਮੇਂ ਸੰਗ੍ਰਹਿ ਲਈ ਕੋਈ ਦਾਨ ਉਪਲਬਧ ਨਹੀਂ।",
+    "availableDonations": "ਉਪਲਬਧ ਦਾਨ",
+    "noAvailableDonations": "ਇਸ ਸਮੇਂ ਕੋਈ ਦਾਨ ਉਪਲਬਧ ਨਹੀਂ।",
+    "completeCollection": "ਸੰਗ੍ਰਹਿ ਪੂਰਾ ਕਰੋ",
+    "foodQuality": "ਭੋਜਨ ਦੀ ਗੁਣਵੱਤਾ",
+    "quality": {
+      "good": "ਵਧੀਆ",
+      "bad": "ਖਰਾਬ"
+    },
+    "viewOnMap": "ਨਕਸ਼ੇ 'ਤੇ ਵੇਖੋ",
+    "myDonations": "ਮੇਰੇ ਦਾਨ",
+    "noDonationsYet": "ਹਾਲੇ ਤੱਕ ਕੋਈ ਦਾਨ ਨਹੀਂ।",
+    "confirmDelete": "ਕੀ ਤੁਸੀਂ ਯਕੀਨਨ ਇਸ ਦਾਨ ਨੂੰ ਮਿਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?",
+    "actionComplete": "ਕਾਰਵਾਈ ਪੂਰੀ! ਕਿਰਪਾ ਕਰਕੇ ਆਪਣੀਆਂ",
+    "actionCompleteSuffix": "ਵਿੱਚ ਅੱਗੇ ਦੀ ਕਾਰਵਾਈ ਚੈਕ ਕਰੋ।",
+    "create": "ਦਾਨ ਬਣਾਓ"
+  },
+  "request": {
+    "markCompleted": "ਪੂਰਾ ਨਿਸ਼ਾਨ ਲਗਾਓ",
+    "markReceived": "ਪਰਾਪਤੀ ਦੀ ਪੁਸ਼ਟੀ",
+    "incomingDonation": "ਆਉਂਦਾ ਦਾਨ"
+  },
+  "common": {
+    "select": "ਚੁਣੋ...",
+    "loading": "ਲੋਡ ਹੋ ਰਿਹਾ ਹੈ...",
+    "map": "ਨਕਸ਼ਾ",
+    "list": "ਸੂਚੀ",
+    "delete": "ਹਟਾਓ"
+  },
+  "dashboard": {
+    "welcome": "ਵਾਪਸੀ ਤੇ ਸੁਆਗਤ ਹੈ, {{name}}!",
+    "tagline": {
+      "restaurant": "ਲੋੜਵੰਦਾਂ ਨਾਲ ਆਪਣਾ ਵਾਧੂ ਭੋਜਨ ਸਾਂਝਾ ਕਰੋ।",
+      "foodbank": "ਆਪਣੀ ਕਮਿਊਨਿਟੀ ਲਈ ਭੋਜਨ ਦਾਨ ਲੱਭੋ।",
+      "default": "ਦਾਤਾਵਾਂ ਅਤੇ ਫੂਡ ਬੈਂਕਾਂ ਨਾਲ ਜੁੜੋ।"
+    },
+    "quickActions": "ਤੁਰੰਤ ਕਾਰਵਾਈਆਂ",
+    "recentActivity": "ਤਾਜ਼ਾ ਗਤਿਵਿਧੀ",
+    "noRecent": "ਕੋਈ ਤਾਜ਼ਾ ਗਤਿਵਿਧੀ ਨਹੀਂ",
+    "noRecentHint": {
+      "restaurant": "ਆਪਣਾ ਪਹਿਲਾ ਦਾਨ ਬਣਾਉਣ ਨਾਲ ਸ਼ੁਰੂ ਕਰੋ",
+      "foodbank": "ਆਪਣਾ ਪਹਿਲਾ ਨਿਵੇਦਨ ਬਣਾਉਣ ਨਾਲ ਸ਼ੁਰੂ ਕਰੋ",
+      "default": "ਦਾਨ ਜਾਂ ਨਿਵੇਦਨ ਬਣਾਉਣ ਨਾਲ ਸ਼ੁਰੂ ਕਰੋ"
+    },
+    "recentNotifications": "ਤਾਜ਼ਾ ਸੂਚਨਾਵਾਂ",
+    "viewAll": "ਸਾਰੀਆਂ ਵੇਖੋ",
+    "yourImpact": "ਤੁਹਾਡਾ ਅਸਰ",
+    "impact": {
+      "co2Unit": "ਕਿਲੋ CO₂ ਬਚਤ"
+    },
+    "stat": {
+      "mealsDonated": "ਦਾਨ ਕੀਤੇ ਭੋਜਨ",
+      "co2Saved": "CO₂ ਬਚਤ (ਕਿਲੋ)",
+      "requestsFulfilled": "ਪੂਰੇ ਕੀਤੇ ਨਿਵੇਦਨ",
+      "pendingDonations": "ਲੰਬਿਤ ਦਾਨ",
+      "totalRequests": "ਕੁੱਲ ਨਿਵੇਦਨ",
+      "pendingRequests": "ਲੰਬਿਤ ਨਿਵੇਦਨ",
+      "acceptedRequests": "ਸਵੀਕਾਰ ਕੀਤੇ ਨਿਵੇਦਨ",
+      "openFoodRequests": "ਖੁੱਲ੍ਹੇ ਭੋਜਨ ਨਿਵੇਦਨ",
+      "unreadNotifications": "ਨਾ-ਪੜ੍ਹੀਆਂ ਸੂਚਨਾਵਾਂ",
+      "deliveriesReceived": "ਮਿਲੀਆਂ ਡਿਲਿਵਰੀਆਂ",
+      "pendingDeliveries": "ਲੰਬਿਤ ਡਿਲਿਵਰੀਆਂ"
+    }
+    ,
+    "action": {
+      "createDonation": "ਦਾਨ ਬਣਾਓ",
+      "viewRequests": "ਨਿਵੇਦਨ ਵੇਖੋ",
+      "viewAnalytics": "ਵਿਸ਼ਲੇਸ਼ਣ ਵੇਖੋ",
+      "createRequest": "ਨਿਵੇਦਨ ਬਣਾਓ",
+      "browseDonations": "ਦਾਨ ਬ੍ਰਾਊਜ਼ ਕਰੋ",
+      "chatbotHelp": "ਚੈਟਬੋਟ ਮਦਦ"
+    }
+  }
+}

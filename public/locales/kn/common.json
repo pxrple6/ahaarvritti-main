@@ -1,0 +1,147 @@
+{
+  "nav": {
+    "dashboard": "ಡ್ಯಾಶ್ಬೋರ್ಡ್",
+    "donations": "ದೇಣಿಗೆಗಳು",
+    "requests": "ವಿನಂತಿಗಳು",
+    "analytics": "ವಿಶ್ಲೇಷಣೆ",
+    "chatbot": "ಚಾಟ್‌ಬಾಟ್",
+    "notifications": "ಅಧಿಸೂಚನೆಗಳು",
+    "profile": "ಪ್ರೊಫೈಲ್",
+    "logout": "ಲಾಗೌಟ್"
+  },
+  "donation": {
+    "createTitle": "ದೇಣಿಗೆ ರಚಿಸಿ",
+    "cuisine": "ಅಡುಗೆ ಪ್ರಕಾರ",
+    "selectCuisine": "ಅಡುಗೆಯನ್ನು ಆರಿಸಿ",
+    "cuisineOptions": {
+      "indian": "ಭಾರತೀಯ",
+      "chinese": "ಚೈನೀಸ್",
+      "italian": "ಇಟಾಲಿಯನ್",
+      "continental": "ಕಾಂಟಿನೆಂಟಲ್",
+      "mexican": "ಮೆಕ್ಸಿಕನ್",
+      "other": "ಇತರೆ"
+    },
+    "vegType": "ಶಾಕಾಹಾರಿ / ಮಾಂಸಾಹಾರಿ",
+    "veg": "ಶಾಕಾಹಾರಿ",
+    "nonveg": "ಮಾಂಸಾಹಾರಿ",
+    "mixed": "ಮಿಶ್ರ",
+    "unit": "ಘಟಕ",
+    "units": {
+      "meals": "ಊಟಗಳು",
+      "kg": "ಕಿಲೋ",
+      "liters": "ಲೀಟರ್",
+      "packs": "ಪ್ಯಾಕ್‌ಗಳು"
+    },
+    "quantity": "ಪ್ರಮಾಣ",
+    "expiry": "ಗಡಾವಧಿ (ಗಂಟೆಗಳು)",
+    "prepDate": "ತಯಾರಾದ ದಿನಾಂಕ",
+    "prepTime": "ತಯಾರಾದ ಸಮಯ",
+    "pickupAddress": "ಪಿಕಪ್ ವಿಳಾಸ",
+    "foodItemsLabel": "ಆಹಾರದ ಐಟಂ(ಗಳು) / ವಿವರಣೆ",
+    "notes": "ಟಿಪ್ಪಣಿ",
+    "deliveryMethod": "ವಿತರಣಾ ವಿಧಾನ",
+    "deliveryMethodOptions": {
+      "volunteerPickup": "ಸ್ವಯಂಸೇವಕ ಪಿಕಪ್",
+      "selfDelivery": "ಸ್ವಯಂ ವಿತರಣೆ"
+    },
+    "volunteerPickup": "ಸ್ವಯಂಸೇವಕ ಪಿಕಪ್",
+    "selfDelivery": "ಸ್ವಯಂ ವಿತರಣೆ",
+    "destinationType": "ಗಮ್ಯಸ್ಥಳ ಪ್ರಕಾರ",
+    "destinationTypes": {
+      "foodbank": "ಫುಡ್ ಬ್ಯಾಂಕ್",
+      "nursery": "ನರ್ಸರಿ",
+      "poultry": "ಕೋಳಿ ರೈತ"
+    },
+    "selectDestination": "ಗಮ್ಯಸ್ಥಳವನ್ನು ಆರಿಸಿ",
+    "placeholders": {
+      "foodItems": "ಉದಾ., ದಾಲ್ ಮಖನಿ, ಪನೀರ್ ಬಟರ್ ಮಸಾಲಾ, ಅನ್ನ",
+      "pickupAddress": "ಪ್ರೊಫೈಲ್ ವಿಳಾಸ ಬಳಸಲು ಖಾಲಿ ಬಿಡಿ"
+    },
+    "hints": {
+      "foodItems": "ದಯವಿಟ್ಟು ಆಹಾರದ ಐಟಂಗಳನ್ನು ಸಂಕ್ಷಿಪ್ತವಾಗಿ ಆದರೆ ಸ್ಪಷ್ಟವಾಗಿ ವಿವರಿಸಿ."
+    },
+    "buttons": {
+      "create": "ದೇಣಿಗೆ ರಚಿಸಿ",
+      "creating": "ರಚಿಸಲಾಗುತ್ತಿದೆ...",
+      "grab": "ಪಡೆಯಿರಿ",
+      "grabbing": "ಪಡೆಯುತ್ತಿದೆ...",
+      "request": "ವಿನಂತಿ",
+      "requesting": "ವಿನಂತಿ ಮಾಡಲಾಗುತ್ತಿದೆ...",
+      "submit": "ಸಲ್ಲಿಸು",
+      "submitting": "ಸಲ್ಲಿಸಲಾಗುತ್ತಿದೆ..."
+    },
+    "availableToCollect": "ಸಂಗ್ರಹಕ್ಕೆ ಲಭ್ಯವಿರುವ ದೇಣಿಗೆಗಳು",
+    "noAvailableToCollect": "ಪ್ರಸ್ತುತ ಸಂಗ್ರಹಕ್ಕೆ ದೇಣಿಗೆಗಳಿಲ್ಲ.",
+    "availableDonations": "ಲಭ್ಯವಿರುವ ದೇಣಿಗೆಗಳು",
+    "noAvailableDonations": "ಪ್ರಸ್ತುತ ದೇಣಿಗೆಗಳು ಲಭ್ಯವಿಲ್ಲ.",
+    "completeCollection": "ಸಂಗ್ರಹವನ್ನು ಪೂರ್ಣಗೊಳಿಸಿ",
+    "foodQuality": "ಆಹಾರದ ಗುಣಮಟ್ಟ",
+    "quality": {
+      "good": "ಉತ್ತಮ",
+      "bad": "ಕೆಟ್ಟ"
+    },
+    "viewOnMap": "ನಕ್ಷೆಯಲ್ಲಿ ನೋಡಿ",
+    "myDonations": "ನನ್ನ ದೇಣಿಗೆಗಳು",
+    "noDonationsYet": "ಇನ್ನೂ ದೇಣಿಗೆಗಳಿಲ್ಲ.",
+    "confirmDelete": "ಈ ದೇಣಿಗೆಯನ್ನು ಅಳಿಸಲು ನೀವು ಖಚಿತವೇ?",
+    "actionComplete": "ಕ್ರಿಯೆ ಪೂರ್ಣಗೊಂಡಿದೆ! ದಯವಿಟ್ಟು ನಿಮ್ಮ",
+    "actionCompleteSuffix": "ನಲ್ಲಿ ಮುಂದಿನ ಕ್ರಮವನ್ನು ನೋಡಿ.",
+    "create": "ದೇಣಿಗೆ ರಚಿಸಿ"
+  },
+  "request": {
+    "markCompleted": "ಪೂರ್ಣಗೊಂಡಂತೆ ಗುರುತಿಸಿ",
+    "markReceived": "ಸ್ವೀಕಾರ ದೃಢೀಕರಿಸಿ",
+    "incomingDonation": "ಬರುತ್ತಿರುವ ದೇಣಿಗೆ"
+  },
+  "common": {
+    "select": "ಆರಿಸಿ...",
+    "loading": "ಲೋಡ್ ಆಗುತ್ತಿದೆ...",
+    "map": "ನಕ್ಷೆ",
+    "list": "ಪಟ್ಟಿ",
+    "delete": "ಅಳಿಸು"
+  },
+  "dashboard": {
+    "welcome": "ಮತ್ತೆ ಸ್ವಾಗತ, {{name}}!",
+    "tagline": {
+      "restaurant": "ಅವಶ್ಯಕತೆಯಿರುವವರೊಂದಿಗೆ ನಿಮ್ಮ ಹೆಚ್ಚುವರಿ ಆಹಾರವನ್ನು ಹಂಚಿಕೊಳ್ಳಿ.",
+      "foodbank": "ನಿಮ್ಮ ಸಮುದಾಯಕ್ಕಾಗಿ ಆಹಾರ ದೇಣಿಗೆಗಳನ್ನು ಹುಡುಕಿ.",
+      "default": "ದಾತರು ಮತ್ತು ಫುಡ್ ಬ್ಯಾಂಕ್‌ಗಳೊಂದಿಗೆ ಸಂಪರ್ಕದಲ್ಲಿರಿ."
+    },
+    "quickActions": "ತ್ವರಿತ ಕ್ರಮಗಳು",
+    "recentActivity": "ಇತ್ತೀಚಿನ ಚಟುವಟಿಕೆ",
+    "noRecent": "ಇತ್ತೀಚಿನ ಚಟುವಟಿಕೆಗಳಿಲ್ಲ",
+    "noRecentHint": {
+      "restaurant": "ನಿಮ್ಮ ಮೊದಲ ದೇಣಿಗೆ ರಚಿಸುವುದರಿಂದ ಪ್ರಾರಂಭಿಸಿ",
+      "foodbank": "ನಿಮ್ಮ ಮೊದಲ ವಿನಂತಿ ರಚಿಸುವುದರಿಂದ ಪ್ರಾರಂಭಿಸಿ",
+      "default": "ದೇಣಿಗೆ ಅಥವಾ ವಿನಂತಿ ರಚಿಸುವುದರಿಂದ ಪ್ರಾರಂಭಿಸಿ"
+    },
+    "recentNotifications": "ಇತ್ತೀಚಿನ ಅಧಿಸೂಚನೆಗಳು",
+    "viewAll": "ಎಲ್ಲವನ್ನೂ ವೀಕ್ಷಿಸಿ",
+    "yourImpact": "ನಿಮ್ಮ ಪ್ರಭಾವ",
+    "impact": {
+      "co2Unit": "ಕಿ.ಗ್ರಾಂ CO₂ ಉಳಿಸಲಾಗಿದೆ"
+    },
+    "stat": {
+      "mealsDonated": "ದೇಣಿಗೆಯಾದ ಊಟಗಳು",
+      "co2Saved": "CO₂ ಉಳಿವು (ಕಿ.ಗ್ರಾಂ)",
+      "requestsFulfilled": "ಪೂರ್ಣಗೊಂಡ ವಿನಂತಿಗಳು",
+      "pendingDonations": "ಬಾಕಿ ಇರುವ ದೇಣಿಗೆಗಳು",
+      "totalRequests": "ಒಟ್ಟು ವಿನಂತಿಗಳು",
+      "pendingRequests": "ಬಾಕಿ ಇರುವ ವಿನಂತಿಗಳು",
+      "acceptedRequests": "ಸ್ವೀಕರಿಸಿದ ವಿನಂತಿಗಳು",
+      "openFoodRequests": "ಮುಕ್ತ ಆಹಾರ ವಿನಂತಿಗಳು",
+      "unreadNotifications": "ಓದದ ಅಧಿಸೂಚನೆಗಳು",
+      "deliveriesReceived": "ಸ್ವೀಕರಿಸಿದ ವಿತರಣೆಗಳು",
+      "pendingDeliveries": "ಬಾಕಿ ಇರುವ ವಿತರಣೆಗಳು"
+    }
+    ,
+    "action": {
+      "createDonation": "ದೇಣಿಗೆ ರಚಿಸಿ",
+      "viewRequests": "ವಿನಂತಿಗಳನ್ನು ನೋಡಿ",
+      "viewAnalytics": "ವಿಶ್ಲೇಷಣೆ ನೋಡಿ",
+      "createRequest": "ವಿನಂತಿಯನ್ನು ರಚಿಸಿ",
+      "browseDonations": "ದೇಣಿಗೆಗಳನ್ನು ಬ್ರೌಸ್ ಮಾಡಿ",
+      "chatbotHelp": "ಚಾಟ್‌ಬಾಟ್ ಸಹಾಯ"
+    }
+  }
+}

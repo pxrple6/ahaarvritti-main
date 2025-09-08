@@ -1,0 +1,147 @@
+{
+  "nav": {
+    "dashboard": "డ్యాష్‌బోర్డ్",
+    "donations": "దానాలు",
+    "requests": "అభ్యర్థనలు",
+    "analytics": "విశ్లేషణ",
+    "chatbot": "చాట్‌బాట్",
+    "notifications": "నోటిఫికేషన్లు",
+    "profile": "ప్రొఫైల్",
+    "logout": "లాగ్అవుట్"
+  },
+  "donation": {
+    "createTitle": "దానం సృష్టించండి",
+    "cuisine": "భోజన రకం",
+    "selectCuisine": "భోజనాన్ని ఎంచుకోండి",
+    "cuisineOptions": {
+      "indian": "భారతీయ",
+      "chinese": "చైనీస్",
+      "italian": "ఇటాలియన్",
+      "continental": "కాంటినెంటల్",
+      "mexican": "మెక్సికన్",
+      "other": "ఇతర"
+    },
+    "vegType": "వెజ్ / నాన్-వెజ్",
+    "veg": "వెజ్",
+    "nonveg": "నాన్-వెజ్",
+    "mixed": "మిశ్రమ",
+    "unit": "యూనిట్",
+    "units": {
+      "meals": "భోజనాలు",
+      "kg": "కిలో",
+      "liters": "లీటర్లు",
+      "packs": "ప్యాక్‌లు"
+    },
+    "quantity": "పరిమాణం",
+    "expiry": "గడువు (గంటలు)",
+    "prepDate": "తయారీ తేదీ",
+    "prepTime": "తయారీ సమయం",
+    "pickupAddress": "పికప్ చిరునామా",
+    "foodItemsLabel": "ఆహార అంశ(ాలు) / వివరణ",
+    "notes": "గమనికలు",
+    "deliveryMethod": "డెలివరీ విధానం",
+    "deliveryMethodOptions": {
+      "volunteerPickup": "వాలంటీర్ పికప్",
+      "selfDelivery": "స్వీయ డెలివరీ"
+    },
+    "volunteerPickup": "వాలంటీర్ పికప్",
+    "selfDelivery": "స్వీయ డెలివరీ",
+    "destinationType": "గమ్యస్థాన రకం",
+    "destinationTypes": {
+      "foodbank": "ఫుడ్ బ్యాంక్",
+      "nursery": "నర్సరీ",
+      "poultry": "పౌల్ట్రీ రైతు"
+    },
+    "selectDestination": "గమ్యస్థానాన్ని ఎంచుకోండి",
+    "placeholders": {
+      "foodItems": "ఉదా., దాల్ మఖని, పనీర్ బటర్ మసాలా, అన్నం",
+      "pickupAddress": "ప్రొఫైల్ చిరునామా ఉపయోగించడానికి ఖాళీగా వదిలేయండి"
+    },
+    "hints": {
+      "foodItems": "దయచేసి ఆహార అంశాల గురించి సంక్షిప్తంగా కానీ స్పష్టమైన వివరణ ఇవ్వండి."
+    },
+    "buttons": {
+      "create": "దానం సృష్టించండి",
+      "creating": "సృష్టిస్తోంది...",
+      "grab": "గ్రాబ్",
+      "grabbing": "గ్రాబ్ అవుతోంది...",
+      "request": "అభ్యర్థించండి",
+      "requesting": "అభ్యర్థిస్తున్నాము...",
+      "submit": "సమర్పించండి",
+      "submitting": "సమర్పిస్తోంది..."
+    },
+    "availableToCollect": "సేకరించడానికి అందుబాటులో ఉన్న దానాలు",
+    "noAvailableToCollect": "ప్రస్తుతం సేకరణ కోసం దానాలు లేవు.",
+    "availableDonations": "అందుబాటులో ఉన్న దానాలు",
+    "noAvailableDonations": "ప్రస్తుతం దానాలు అందుబాటులో లేవు.",
+    "completeCollection": "సేకరణను పూర్తి చేయండి",
+    "foodQuality": "ఆహార నాణ్యత",
+    "quality": {
+      "good": "మంచిది",
+      "bad": "చెడు"
+    },
+    "viewOnMap": "మ్యాప్‌లో చూడండి",
+    "myDonations": "నా దానాలు",
+    "noDonationsYet": "ఇప్పటికీ దానాలు లేవు.",
+    "confirmDelete": "మీరు నిజంగా ఈ దానాన్ని తొలగించాలనుకుంటున్నారా?",
+    "actionComplete": "చర్య పూర్తైంది! దయచేసి మీ",
+    "actionCompleteSuffix": "లో తదుపరి చర్యను చూడండి.",
+    "create": "దానం సృష్టించండి"
+  },
+  "request": {
+    "markCompleted": "పూర్తయిందిగా గుర్తించండి",
+    "markReceived": "స్వీకరించబడింది అని నిర్ధారించండి",
+    "incomingDonation": "వస్తున్న దానం"
+  },
+  "common": {
+    "select": "ఎంచుకోండి...",
+    "loading": "లోడవుతోంది...",
+    "map": "మ్యాప్",
+    "list": "జాబితా",
+    "delete": "తొలగించండి"
+  },
+  "dashboard": {
+    "welcome": "తిరిగి స్వాగతం, {{name}}!",
+    "tagline": {
+      "restaurant": "అవసరమున్నవారితో మీ అదనపు భోజనం పంచుకోండి.",
+      "foodbank": "మీ సమాజానికి ఆహార దానాలు కనుగొనండి.",
+      "default": "దాతలు మరియు ఫుడ్ బ్యాంక్‌లతో కనెక్ట్ అవ్వండి."
+    },
+    "quickActions": "త్వరిత చర్యలు",
+    "recentActivity": "ఇటీవల జరిగినవి",
+    "noRecent": "ఇటీవల ఏమీ లేదు",
+    "noRecentHint": {
+      "restaurant": "మీ మొదటి దానం సృష్టించడం ద్వారా ప్రారంభించండి",
+      "foodbank": "మీ మొదటి అభ్యర్థన సృష్టించడం ద్వారా ప్రారంభించండి",
+      "default": "దానం లేదా అభ్యర్థన సృష్టించడం ద్వారా ప్రారంభించండి"
+    },
+    "recentNotifications": "ఇటీవల నోటిఫికేషన్లు",
+    "viewAll": "అన్నీ చూడండి",
+    "yourImpact": "మీ ప్రభావం",
+    "impact": {
+      "co2Unit": "కిలో CO₂ సేవ్ అయ్యింది"
+    },
+    "stat": {
+      "mealsDonated": "దానం చేసిన భోజనాలు",
+      "co2Saved": "CO₂ సేవ్ (కిలో)",
+      "requestsFulfilled": "పూర్తి చేసిన అభ్యర్థనలు",
+      "pendingDonations": "పెండింగ్ దానాలు",
+      "totalRequests": "మొత్తం అభ్యర్థనలు",
+      "pendingRequests": "పెండింగ్ అభ్యర్థనలు",
+      "acceptedRequests": "అంగీకరించిన అభ్యర్థనలు",
+      "openFoodRequests": "బహిరంగ ఆహార అభ్యర్థనలు",
+      "unreadNotifications": "చదవని నోటిఫికేషన్లు",
+      "deliveriesReceived": "అందుకున్న డెలివరీలు",
+      "pendingDeliveries": "పెండింగ్ డెలివరీలు"
+    }
+    ,
+    "action": {
+      "createDonation": "దానం సృష్టించండి",
+      "viewRequests": "అభ్యర్థనలు చూడండి",
+      "viewAnalytics": "విశ్లేషణ చూడండి",
+      "createRequest": "అభ్యర్థన సృష్టించండి",
+      "browseDonations": "దానాలు బ్రౌజ్ చేయండి",
+      "chatbotHelp": "చాట్‌బాట్ సహాయం"
+    }
+  }
+}

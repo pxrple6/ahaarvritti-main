@@ -1,0 +1,283 @@
+{
+  "nav": {
+    "dashboard": "Dashboard",
+    "donations": "Donations",
+    "requests": "Requests",
+    "analytics": "Analytics",
+    "chatbot": "Chatbot",
+    "notifications": "Notifications",
+    "profile": "Profile",
+    "logout": "Logout"
+  },
+  "donation": {
+    "createTitle": "Create Donation",
+    "cuisine": "Cuisine Type",
+    "selectCuisine": "Select Cuisine",
+    "cuisineOptions": {
+      "indian": "Indian",
+      "chinese": "Chinese",
+      "italian": "Italian",
+      "continental": "Continental",
+      "mexican": "Mexican",
+      "other": "Other"
+    },
+    "vegType": "Veg / Non-Veg",
+    "veg": "Veg",
+    "nonveg": "Non-Veg",
+    "mixed": "Mixed",
+    "unit": "Unit",
+    "units": {
+      "meals": "Meals",
+      "kg": "Kg",
+      "liters": "Liters",
+      "packs": "Packs"
+    },
+    "quantity": "Quantity",
+    "expiry": "Expiry (hours)",
+    "prepDate": "Date of Preparation",
+    "prepTime": "Time of Preparation",
+    "pickupAddress": "Pickup Address",
+    "foodItemsLabel": "Food Item(s) / Description",
+    "notes": "Notes",
+    "deliveryMethod": "Delivery Method",
+    "deliveryMethodOptions": {
+      "volunteerPickup": "Volunteer Pickup",
+      "selfDelivery": "Self Delivery"
+    },
+    "volunteerPickup": "Volunteer Pickup",
+    "selfDelivery": "Self Delivery",
+    "destinationType": "Destination Type",
+    "destinationTypes": {
+      "foodbank": "Food Bank",
+      "nursery": "Nursery",
+      "poultry": "Poultry Farmer"
+    },
+    "selectDestination": "Select Destination",
+    "placeholders": {
+      "foodItems": "e.g., Dal Makhani, Paneer Butter Masala, Rice",
+      "pickupAddress": "Leave blank to use your profile address"
+    },
+    "hints": {
+      "foodItems": "Please provide a brief but clear description of the food items."
+    },
+    "buttons": {
+      "create": "Create Donation",
+      "creating": "Creating...",
+      "grab": "Grab",
+      "grabbing": "Grabbing...",
+      "request": "Request",
+      "requesting": "Requesting...",
+      "submit": "Submit",
+      "submitting": "Submitting..."
+    },
+    "availableToCollect": "Available Donations to Collect",
+    "noAvailableToCollect": "No available donations for collection at this time.",
+    "availableDonations": "Available Donations",
+    "noAvailableDonations": "No available donations at this time.",
+    "completeCollection": "Complete Collection",
+    "foodQuality": "Food Quality",
+    "quality": {
+      "good": "Good",
+      "bad": "Bad"
+    },
+    "viewOnMap": "View on Map",
+    "myDonations": "My Donations",
+    "noDonationsYet": "No donations yet.",
+    "confirmDelete": "Are you sure you want to delete this donation?",
+    "actionComplete": "Action complete! Please check your",
+    "actionCompleteSuffix": "for further action.",
+    "create": "Create Donation"
+  },
+  "request": {
+    "title": "My Requests",
+    "filter": {
+      "label": "Filter",
+      "options": {
+        "active": "Active",
+        "all": "All",
+        "pending": "Pending",
+        "accepted": "Accepted",
+        "rejected": "Rejected",
+        "fulfilled": "Fulfilled"
+      }
+    },
+    "none": "No requests to show.",
+    "foodRequest": "Food Request",
+    "fields": {
+      "from": "From",
+      "pickup": "Pickup",
+      "requestedBy": "Requested by"
+    },
+    "badges": {
+      "incomingDonation": "Incoming donation"
+    },
+    "buttons": {
+      "collect": "Collect",
+      "delete": "Delete",
+      "markCompleted": "Mark as Completed",
+      "markReceived": "Mark as Received",
+      "accept": "Accept",
+      "submit": "Submit",
+      "submitting": "Submitting..."
+    },
+    "confirmDelete": "Are you sure you want to delete this request?",
+    "routedByVolunteer": "Routed by volunteer",
+    "dropoffAt": "Drop-off at",
+    "address": "Address",
+    "phone": "Phone",
+    "receiver": "receiver",
+    "food": "Food",
+    "aVolunteer": "a volunteer",
+    "theDonation": "the donation",
+    "pleaseConfirmReceipt": "Please confirm once you receive the donation.",
+    "collectModal": {
+      "title": "Complete Collection",
+      "quality": "Quality",
+      "destinationType": "Destination Type",
+      "destination": "Destination",
+      "badExpired": "Bad/Expired"
+    },
+    "notifications": {
+      "deliveryCompleted": {
+        "title": "Delivery Completed",
+        "message": "Delivery for {{food}} has been marked as completed by {{by}}."
+      },
+      "deliveryReceived": {
+        "title": "Delivery Received",
+        "message": "{{name}} has confirmed receipt for {{food}}."
+      }
+    },
+    "toasts": {
+      "deleting": "Deleting request...",
+      "deleteSuccess": "Request deleted successfully!",
+      "deleteFailed": "Failed to delete request",
+      "missingDonation": "Cannot collect: missing donation information.",
+      "collectSubmitted": "Collection details submitted successfully!",
+      "donationNotFound": "This donation was deleted and cannot be collected.",
+      "errorOccurred": "An error occurred",
+      "markingCompleted": "Marking as completed...",
+      "completedAndAwarded": "Request completed! 5 tokens awarded.",
+      "updateFailed": "Failed to update request",
+      "accepting": "Accepting delivery...",
+      "accepted": "Delivery accepted.",
+      "confirmingReceipt": "Confirming receipt...",
+      "markedReceived": "Marked as received.",
+      "failed": "Failed"
+    },
+    "acceptedByYou": "Accepted by you",
+    "howItWorks": {
+      "title": "How requests work",
+      "body": "Browse donations on the Donations page and click Request to send a request to the donor. Your requests will appear here."
+    }
+  },
+  "profile": {
+    "title": "Profile",
+    "role": "Role",
+    "info": {
+      "title": "Your Info",
+      "name": "Name",
+      "phone": "Phone",
+      "address": "Address",
+      "save": "Save",
+      "saving": "Saving..."
+    },
+    "stats": {
+      "title": "Your Stats",
+      "cards": {
+        "totalDonations": "Total Donations",
+        "completedDonations": "Completed Donations",
+        "totalRequests": "Total Requests",
+        "requestsFulfilled": "Requests Fulfilled"
+      }
+    },
+    "impact": {
+      "title": "Your Impact in Perspective",
+      "volunteerBlurb": "Your deliveries have been a crucial link in our logistics chain, ensuring food reaches those in need."
+    }
+  },
+  "analyticsPage": {
+    "title": "Your Analytics Dashboard",
+    "download": {
+      "default": "Download as PDF",
+      "generating": "Generating PDF..."
+    },
+    "personalImpact": "Your Personal Impact",
+    "noActivityYet": "No activity yet.",
+    "noActivityYetReceiver": "Your impact stats will appear here once you accept a delivery.",
+    "noActivityYetVolunteer": "Your impact stats will appear here once you grab a delivery.",
+    "errorLoading": "We couldn’t load your stats right now. Please try again shortly.",
+    "platformOverview": "Platform Overview",
+    "totalMeals": "Total Meals Donated",
+    "totalCO2": "Total CO₂ Saved",
+    "totalDonors": "Donors",
+    "totalVolunteers": "Volunteers",
+    "impactBreakdown": "Impact Breakdown",
+    "userRoleDistribution": "User Role Distribution",
+    "topCuisines": "Top Cuisines Donated",
+    "myImpactBreakdown": "My Impact Breakdown",
+    "myDonationsOverTime": "My Donations Over Time",
+    "topCuisinesIDonated": "Top cuisines I donated",
+    "receiverImpact": {
+      "receivedDeliveries": "Your organization has received {{count}} deliveries — helping ensure meals reach families in time.",
+      "co2Miles": "By receiving and distributing food, you helped avoid about {{miles}} car miles worth of CO₂ emissions.",
+      "thankYou": "Thank you for being a reliable distribution partner. Your efforts amplify the impact across our community."
+    }
+  },
+  "common": {
+    "select": "Select...",
+    "loading": "Loading...",
+    "map": "Map",
+    "list": "List",
+    "delete": "Delete"
+  },
+  "dashboard": {
+    "welcome": "Welcome back, {{name}}!",
+    "tagline": {
+      "restaurant": "Share your excess food with those in need.",
+      "foodbank": "Find food donations for your community.",
+      "default": "Connect with donors and food banks."
+    },
+    "quickActions": "Quick Actions",
+    "recentActivity": "Recent Activity",
+    "noRecent": "No recent activity",
+    "noRecentHint": {
+      "restaurant": "Start by creating your first donation",
+      "foodbank": "Start by creating your first request",
+      "default": "Start by creating a donation or request"
+    },
+    "recentNotifications": "Recent Notifications",
+    "viewAll": "View all",
+    "yourImpact": "Your Impact",
+    "personalImpactChart": "Personal Impact",
+    "personalImpact": {
+      "co2OverTime": "CO₂ Saved (last 30 days)",
+      "activityOverTime": "Activity (last 30 days)"
+    },
+    "impact": {
+      "co2Unit": "kg CO₂ Saved"
+    },
+    "stat": {
+      "mealsDonated": "Meals Donated",
+      "co2Saved": "CO₂ Saved (kg)",
+      "requestsFulfilled": "Requests Fulfilled",
+      "pendingDonations": "Pending Donations",
+      "totalRequests": "Total Requests",
+      "pendingRequests": "Pending Requests",
+      "acceptedRequests": "Accepted Requests",
+      "openFoodRequests": "Open Food Requests",
+      "unreadNotifications": "Unread Notifications",
+      "deliveriesCompleted": "Deliveries Completed",
+      "deliveriesReceived": "Deliveries Received",
+      "pendingDeliveries": "Pending Deliveries"
+    }
+    ,
+    "action": {
+      "createDonation": "Create Donation",
+      "viewRequests": "View Requests",
+      "viewAnalytics": "View Analytics",
+      "createRequest": "Create Request",
+      "browseDonations": "Browse Donations",
+      "chatbotHelp": "Chatbot Help"
+    }
+  }
+}
