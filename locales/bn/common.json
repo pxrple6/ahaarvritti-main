@@ -1,0 +1,159 @@
+{
+  "nav": {
+    "dashboard": "ড্যাশবোর্ড",
+    "donations": "দান",
+    "requests": "অনুরোধ",
+    "analytics": "বিশ্লেষণ",
+    "chatbot": "চ্যাটবট",
+    "notifications": "বিজ্ঞপ্তি",
+    "profile": "প্রোফাইল",
+    "logout": "লগআউট"
+  },
+  "donation": {
+    "createTitle": "দান তৈরি করুন",
+    "cuisine": "রান্নার ধরন",
+    "selectCuisine": "রান্না নির্বাচন করুন",
+    "cuisineOptions": {
+      "indian": "ভারতীয়",
+      "chinese": "চীনা",
+      "italian": "ইতালীয়",
+      "continental": "কন্টিনেন্টাল",
+      "mexican": "মেক্সিকান",
+      "other": "অন্যান্য"
+    },
+    "vegType": "নিরামিষ / আমিষ",
+    "veg": "নিরামিষ",
+    "nonveg": "আমিষ",
+    "mixed": "মিশ্র",
+    "unit": "একক",
+    "units": {
+      "meals": "ভোজন",
+      "kg": "কেজি",
+      "liters": "লিটার",
+      "packs": "প্যাক"
+    },
+    "quantity": "পরিমাণ",
+    "expiry": "মেয়াদ (ঘন্টা)",
+    "prepDate": "প্রস্তুতির তারিখ",
+    "prepTime": "প্রস্তুতির সময়",
+    "pickupAddress": "পিকআপ ঠিকানা",
+    "foodItemsLabel": "খাদ্য আইটেম(সমূহ) / বিবরণ",
+    "notes": "নোটস",
+    "deliveryMethod": "ডেলিভারি পদ্ধতি",
+    "deliveryMethodOptions": {
+      "volunteerPickup": "স্বেচ্ছাসেবক পিকআপ",
+      "selfDelivery": "স্ব-ডেলিভারি"
+    },
+    "volunteerPickup": "স্বেচ্ছাসেবক পিকআপ",
+    "selfDelivery": "স্ব-ডেলিভারি",
+    "destinationType": "গন্তব্যের ধরন",
+    "destinationTypes": {
+      "foodbank": "ফুড ব্যাংক",
+      "nursery": "নার্সারি",
+      "poultry": "পোল্ট্রি চাষী"
+    },
+    "selectDestination": "গন্তব্য নির্বাচন করুন",
+    "placeholders": {
+      "foodItems": "যেমন, ডাল মাখনি, পনির বাটার মাসালা, ভাত",
+      "pickupAddress": "প্রোফাইল ঠিকানা ব্যবহার করতে খালি রাখুন"
+    },
+    "hints": {
+      "foodItems": "খাদ্য আইটেমের সংক্ষিপ্ত তবে স্পষ্ট বর্ণনা দিন।"
+    },
+    "buttons": {
+      "create": "দান তৈরি করুন",
+      "creating": "তৈরি হচ্ছে...",
+      "grab": "গ্র্যাব",
+      "grabbing": "গ্র্যাব করা হচ্ছে...",
+      "request": "অনুরোধ",
+      "requesting": "অনুরোধ করা হচ্ছে...",
+      "submit": "জমা দিন",
+      "submitting": "জমা দেওয়া হচ্ছে..."
+    },
+    "availableToCollect": "সংগ্রহের জন্য উপলব্ধ দান",
+    "noAvailableToCollect": "এই মুহূর্তে সংগ্রহের জন্য কোনও দান উপলব্ধ নেই।",
+    "availableDonations": "উপলব্ধ দান",
+    "noAvailableDonations": "এই মুহূর্তে কোনও দান উপলব্ধ নেই।",
+    "completeCollection": "সংগ্রহ সম্পূর্ণ করুন",
+    "foodQuality": "খাবারের গুণমান",
+    "quality": {
+      "good": "ভাল",
+      "bad": "খারাপ"
+    },
+    "viewOnMap": "মানচিত্রে দেখুন",
+    "myDonations": "আমার দান",
+    "noDonationsYet": "এখনও কোনও দান নেই।",
+    "confirmDelete": "আপনি কি নিশ্চিত যে এই দানটি মুছে ফেলতে চান?",
+    "actionComplete": "কাজ সম্পন্ন! অনুগ্রহ করে আপনার",
+    "actionCompleteSuffix": "এ পরবর্তী পদক্ষেপ দেখুন।",
+    "create": "দান তৈরি করুন"
+  },
+  "request": {
+    "markCompleted": "সম্পন্ন হিসেবে চিহ্নিত করুন",
+    "markReceived": "প্রাপ্তি নিশ্চিত করুন",
+    "incomingDonation": "আসন্ন দান"
+  },
+  "profile": {
+    "impact": {
+      "title": "আপনার প্রভাব",
+      "volunteerBlurb": "আপনার ডেলিভারি আমাদের লজিস্টিক শৃঙ্খলের একটি গুরুত্বপূর্ণ সংযোগ, যা খাবারকে প্রয়োজনীয়দের কাছে পৌঁছে দেয়।"
+    }
+  },
+  "common": {
+    "select": "নির্বাচন করুন...",
+    "loading": "লোড হচ্ছে...",
+    "map": "মানচিত্র",
+    "list": "তালিকা",
+    "delete": "মুছে ফেলুন"
+  },
+  "dashboard": {
+    "welcome": "ফিরে আসার জন্য স্বাগতম, {{name}}!",
+    "tagline": {
+      "restaurant": "প্রয়োজনীয়দের সাথে আপনার অতিরিক্ত খাবার ভাগ করুন।",
+      "foodbank": "আপনার সম্প্রদায়ের জন্য খাবার দান খুঁজুন।",
+      "default": "দাতাদের এবং ফুড ব্যাংকের সাথে সংযুক্ত হোন।"
+    },
+    "quickActions": "দ্রুত কার্যাবলী",
+    "recentActivity": "সাম্প্রতিক কার্যকলাপ",
+    "noRecent": "কোনও সাম্প্রতিক কার্যকলাপ নেই",
+    "noRecentHint": {
+      "restaurant": "আপনার প্রথম দান তৈরি করে শুরু করুন",
+      "foodbank": "আপনার প্রথম অনুরোধ তৈরি করে শুরু করুন",
+      "default": "একটি দান বা অনুরোধ তৈরি করে শুরু করুন"
+    },
+    "recentNotifications": "সাম্প্রতিক বিজ্ঞপ্তি",
+    "viewAll": "সব দেখুন",
+    "yourImpact": "আপনার প্রভাব",
+    "personalImpactChart": "ব্যক্তিগত প্রভাব",
+    "personalImpact": {
+      "co2OverTime": "CO₂ সাশ্রয় (শেষ ৩০ দিন)",
+      "activityOverTime": "কার্যক্রম (শেষ ৩০ দিন)"
+    },
+    "impact": {
+      "co2Unit": "কেজি CO₂ সাশ্রয়"
+    },
+    "stat": {
+      "mealsDonated": "দানকৃত খাদ্য",
+      "co2Saved": "CO₂ সাশ্রয় (কেজি)",
+      "requestsFulfilled": "পরিপূর্ণ অনুরোধ",
+      "pendingDonations": "মুলতুবি দান",
+      "totalRequests": "মোট অনুরোধ",
+      "pendingRequests": "মুলতুবি অনুরোধ",
+      "acceptedRequests": "গৃহীত অনুরোধ",
+      "openFoodRequests": "খোলা খাদ্য অনুরোধ",
+      "unreadNotifications": "অপঠিত বিজ্ঞপ্তি",
+      "deliveriesCompleted": "সম্পন্ন ডেলিভারি",
+      "deliveriesReceived": "গৃহীত ডেলিভারি",
+      "pendingDeliveries": "মুলতুবি ডেলিভারি"
+    }
+    ,
+    "action": {
+      "createDonation": "দান তৈরি করুন",
+      "viewRequests": "অনুরোধ দেখুন",
+      "viewAnalytics": "বিশ্লেষণ দেখুন",
+      "createRequest": "অনুরোধ তৈরি করুন",
+      "browseDonations": "দান ব্রাউজ করুন",
+      "chatbotHelp": "চ্যাটবট সহায়তা"
+    }
+  }
+}

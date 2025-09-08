@@ -1,0 +1,270 @@
+{
+  "nav": {
+    "dashboard": "डैशबोर्ड",
+    "donations": "दान",
+    "requests": "अनुरोध",
+    "analytics": "विश्लेषण",
+    "chatbot": "चैटबॉट",
+    "notifications": "सूचनाएँ",
+    "profile": "प्रोफ़ाइल",
+    "logout": "लॉगआउट"
+  },
+  "donation": {
+    "createTitle": "दान बनाएँ",
+    "cuisine": "पकवान प्रकार",
+    "selectCuisine": "पकवान चुनें",
+    "cuisineOptions": {
+      "indian": "भारतीय",
+      "chinese": "चीनी",
+      "italian": "इतालवी",
+      "continental": "कॉन्टिनेंटल",
+      "mexican": "मैक्सिकन",
+      "other": "अन्य"
+    },
+    "vegType": "शाकाहारी / मांसाहारी",
+    "veg": "शाकाहारी",
+    "nonveg": "मांसाहारी",
+    "mixed": "मिश्रित",
+    "unit": "इकाई",
+    "units": {
+      "meals": "भोजन",
+      "kg": "कि.ग्रा.",
+      "liters": "लीटर",
+      "packs": "पैकेट"
+    },
+    "quantity": "मात्रा",
+    "expiry": "समय सीमा (घंटे)",
+    "prepDate": "तैयारी की तारीख",
+    "prepTime": "तैयारी का समय",
+    "pickupAddress": "पिकअप पता",
+    "foodItemsLabel": "खाद्य वस्तु(एँ) / विवरण",
+    "notes": "नोट्स",
+    "deliveryMethod": "डिलीवरी तरीका",
+    "deliveryMethodOptions": {
+      "volunteerPickup": "स्वयंसेवक पिकअप",
+      "selfDelivery": "स्व-डिलीवरी"
+    },
+    "volunteerPickup": "स्वयंसेवक पिकअप",
+    "selfDelivery": "स्व-डिलीवरी",
+    "destinationType": "गंतव्य प्रकार",
+    "destinationTypes": {
+      "foodbank": "फूड बैंक",
+      "nursery": "नर्सरी",
+      "poultry": "पोल्ट्री किसान"
+    },
+    "selectDestination": "गंतव्य चुनें",
+    "placeholders": {
+      "foodItems": "उदा., दाल मखनी, पनीर बटर मसाला, चावल",
+      "pickupAddress": "प्रोफ़ाइल पता उपयोग करने के लिए खाली छोड़ें"
+    },
+    "hints": {
+      "foodItems": "कृपया खाद्य वस्तुओं का संक्षिप्त लेकिन स्पष्ट विवरण दें।"
+    },
+    "buttons": {
+      "create": "दान बनाएँ",
+      "creating": "बना रहा है...",
+      "grab": "ग्रैब करें",
+      "grabbing": "ग्रैब किया जा रहा है...",
+      "request": "अनुरोध करें",
+      "requesting": "अनुरोध किया जा रहा है...",
+      "submit": "जमा करें",
+      "submitting": "जमा किया जा रहा है..."
+    },
+    "availableToCollect": "संग्रह के लिए उपलब्ध दान",
+    "noAvailableToCollect": "इस समय संग्रह के लिए कोई दान उपलब्ध नहीं है।",
+    "availableDonations": "उपलब्ध दान",
+    "noAvailableDonations": "इस समय कोई दान उपलब्ध नहीं है।",
+    "completeCollection": "संग्रह पूर्ण करें",
+    "foodQuality": "भोजन की गुणवत्ता",
+    "quality": {
+      "good": "अच्छा",
+      "bad": "खराब"
+    },
+    "viewOnMap": "मानचित्र पर देखें",
+    "myDonations": "मेरे दान",
+    "noDonationsYet": "अभी तक कोई दान नहीं।",
+    "confirmDelete": "क्या आप वाकई इस दान को हटाना चाहते हैं?",
+    "actionComplete": "कार्रवाई पूरी! कृपया अपने",
+    "actionCompleteSuffix": "में आगे की प्रक्रिया देखें।",
+    "create": "दान बनाएँ"
+  },
+  "request": {
+    "title": "मेरे अनुरोध",
+    "filter": {
+      "label": "फ़िल्टर",
+      "options": {
+        "active": "सक्रिय",
+        "all": "सभी",
+        "pending": "लंबित",
+        "accepted": "स्वीकृत",
+        "rejected": "अस्वीकृत",
+        "fulfilled": "पूर्ण"
+      }
+    },
+    "none": "दिखाने के लिए कोई अनुरोध नहीं।",
+    "foodRequest": "खाद्य अनुरोध",
+    "fields": {
+      "from": "प्रेषक",
+      "pickup": "कलेक्शन स्थान",
+      "requestedBy": "अनुरोधकर्ता"
+    },
+    "badges": {
+      "incomingDonation": "आने वाला दान"
+    },
+    "buttons": {
+      "collect": "कलेक्ट करें",
+      "delete": "हटाएँ",
+      "markCompleted": "पूर्ण चिह्नित करें",
+      "markReceived": "प्राप्ति की पुष्टि करें",
+      "submit": "सबमिट",
+      "submitting": "सबमिट किया जा रहा है..."
+    },
+    "confirmDelete": "क्या आप वाकई इस अनुरोध को हटाना चाहते हैं?",
+    "routedByVolunteer": "स्वयंसेवक द्वारा रूट किया गया",
+    "dropoffAt": "ड्रॉप-ऑफ स्थान",
+    "address": "पता",
+    "phone": "फ़ोन",
+    "receiver": "रिसीवर",
+    "food": "खाद्य",
+    "aVolunteer": "एक स्वयंसेवक",
+    "theDonation": "दान",
+    "pleaseConfirmReceipt": "कृपया दान प्राप्त होने पर पुष्टि करें।",
+    "collectModal": {
+      "title": "कलेक्शन पूर्ण करें",
+      "quality": "गुणवत्ता",
+      "destinationType": "गंतव्य प्रकार",
+      "destination": "गंतव्य",
+      "badExpired": "खराब/एक्सपायर्ड"
+    },
+    "notifications": {
+      "deliveryCompleted": {
+        "title": "डिलीवरी पूर्ण",
+        "message": "{{by}} ने {{food}} की डिलीवरी पूर्ण चिह्नित की है।"
+      },
+      "deliveryReceived": {
+        "title": "डिलीवरी प्राप्त",
+        "message": "{{name}} ने {{food}} की प्राप्ति की पुष्टि की है।"
+      }
+    },
+    "toasts": {
+      "deleting": "अनुरोध हटाया जा रहा है...",
+      "deleteSuccess": "अनुरोध सफलतापूर्वक हटाया गया!",
+      "deleteFailed": "अनुरोध हटाने में विफल",
+      "missingDonation": "कलेक्ट नहीं कर सकते: दान की जानकारी अनुपलब्ध।",
+      "collectSubmitted": "कलेक्शन विवरण सफलतापूर्वक सबमिट!",
+      "donationNotFound": "यह दान हटाया जा चुका है, कलेक्ट नहीं किया जा सकता।",
+      "errorOccurred": "एक त्रुटि हुई",
+      "markingCompleted": "पूर्ण चिह्नित किया जा रहा है...",
+      "completedAndAwarded": "अनुरोध पूर्ण! 5 टोकन दिए गए।",
+      "updateFailed": "अनुरोध अपडेट करने में विफल",
+      "confirmingReceipt": "प्राप्ति की पुष्टि की जा रही है...",
+      "markedReceived": "प्राप्ति चिह्नित की गई।",
+      "failed": "विफल"
+    },
+    "howItWorks": {
+      "title": "अनुरोध कैसे काम करते हैं",
+      "body": "दान पेज पर जाएँ और अनुरोध भेजने के लिए 'Request' पर क्लिक करें। आपके अनुरोध यहाँ दिखाई देंगे।"
+    },
+    "markCompleted": "पूर्ण के रूप में चिह्नित करें",
+    "markReceived": "प्राप्ति की पुष्टि करें",
+    "incomingDonation": "आने वाला दान"
+  },
+  "profile": {
+    "title": "प्रोफ़ाइल",
+    "role": "भूमिका",
+    "info": {
+      "title": "आपकी जानकारी",
+      "name": "नाम",
+      "phone": "फ़ोन",
+      "address": "पता",
+      "save": "सहेजें",
+      "saving": "सहेजा जा रहा है..."
+    },
+    "stats": {
+      "title": "आपके आँकड़े",
+      "cards": {
+        "totalDonations": "कुल दान",
+        "completedDonations": "पूर्ण दान",
+        "totalRequests": "कुल अनुरोध",
+        "requestsFulfilled": "पूर्ण अनुरोध"
+      }
+    },
+    "impact": {
+      "title": "आपका प्रभाव",
+      "volunteerBlurb": "आपकी डिलीवरी हमारे लॉजिस्टिक्स श्रृंखला की एक महत्वपूर्ण कड़ी रही हैं, जिससे खाना ज़रूरतमंदों तक पहुँचा।"
+    }
+  },
+  "analyticsPage": {
+    "title": "एनालिटिक्स डैशबोर्ड",
+    "download": {
+      "default": "PDF डाउनलोड करें",
+      "generating": "PDF बनाया जा रहा है..."
+    },
+    "personalImpact": "मेरा व्यक्तिगत प्रभाव",
+    "myImpactBreakdown": "मेरे प्रभाव का विवरण",
+    "myDonationsOverTime": "समय के साथ मेरे दान",
+    "topCuisinesIDonated": "मैंने दान किए शीर्ष व्यंजन",
+    "deliveriesReceivedOverTime": "समय के साथ प्राप्त डिलीवरी",
+    "volunteer": { "noData": "दिखाने के लिए अभी कोई स्वयंसेवक गतिविधि नहीं।" },
+    "receiver": { "noData": "दिखाने के लिए अभी कोई डिलीवरी नहीं।" },
+    "loadingPersonal": "आपका व्यक्तिगत प्रभाव लोड हो रहा है...",
+    "noActivityYet": "अभी तक कोई पूर्ण गतिविधि नहीं। जैसे ही आप दान या डिलीवरी करेंगे, यहाँ दिखाई देगा!",
+    "errorLoading": "हम अभी आपके व्यक्तिगत आँकड़े लोड नहीं कर पाए। कृपया बाद में पुनः प्रयास करें।"
+  },
+  "common": {
+    "select": "चुनें...",
+    "loading": "लोड हो रहा है...",
+    "map": "मानचित्र",
+    "list": "सूची",
+    "delete": "हटाएँ"
+  },
+  "dashboard": {
+    "welcome": "वापसी पर स्वागत है, {{name}}!",
+    "tagline": {
+      "restaurant": "ज़रूरतमंदों के साथ अपना अतिरिक्त भोजन साझा करें।",
+      "foodbank": "अपनी समुदाय के लिए भोजन दान खोजें।",
+      "default": "दाताओं और फूड बैंकों से जुड़ें।"
+    },
+    "quickActions": "त्वरित कार्य",
+    "recentActivity": "हाल की गतिविधि",
+    "noRecent": "कोई हाल की गतिविधि नहीं",
+    "noRecentHint": {
+      "restaurant": "अपना पहला दान बनाकर शुरू करें",
+      "foodbank": "अपना पहला अनुरोध बनाकर शुरू करें",
+      "default": "दान या अनुरोध बनाकर शुरू करें"
+    },
+    "recentNotifications": "हाल की सूचनाएँ",
+    "viewAll": "सभी देखें",
+    "yourImpact": "आपका प्रभाव",
+    "personalImpactChart": "व्यक्तिगत प्रभाव",
+    "personalImpact": {
+      "co2OverTime": "CO₂ बचत (पिछले 30 दिन)",
+      "activityOverTime": "गतिविधि (पिछले 30 दिन)"
+    },
+    "impact": {
+      "co2Unit": "किलो CO₂ बचत"
+    },
+    "stat": {
+      "mealsDonated": "दान किए गए भोजन",
+      "co2Saved": "CO₂ बचत (कि.ग्रा.)",
+      "requestsFulfilled": "पूरे हुए अनुरोध",
+      "pendingDonations": "लंबित दान",
+      "totalRequests": "कुल अनुरोध",
+      "pendingRequests": "लंबित अनुरोध",
+      "acceptedRequests": "स्वीकृत अनुरोध",
+      "openFoodRequests": "खुले भोजन अनुरोध",
+      "unreadNotifications": "अपठित सूचनाएं",
+      "deliveriesCompleted": "पूर्ण की गई डिलीवरी",
+      "deliveriesReceived": "प्राप्त डिलीवरी",
+      "pendingDeliveries": "लंबित डिलीवरी"
+    },
+    "action": {
+      "createDonation": "दान बनाएँ",
+      "viewRequests": "अनुरोध देखें",
+      "viewAnalytics": "विश्लेषण देखें",
+      "createRequest": "अनुरोध बनाएँ",
+      "browseDonations": "दान ब्राउज़ करें",
+      "chatbotHelp": "चैटबॉट सहायता"
+    }
+  }
+}
