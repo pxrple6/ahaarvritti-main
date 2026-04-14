@@ -204,9 +204,7 @@ npm run build
 4. Add tests if applicable
 5. Submit a pull request
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -215,14 +213,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Open source contributors
 - Food banks and NGOs for inspiration
 
-## 📞 Support
 
-For support and questions:
-
-- Email: support@ahaarvritti.com
-- Documentation: [docs.ahaarvritti.com](https://docs.ahaarvritti.com)
-- Issues: [GitHub Issues](https://github.com/ahaarvritti/issues)
-
----
 
 **Ahaarvritti** - Connecting food donors with those in need to reduce waste and fight hunger. 🌱
